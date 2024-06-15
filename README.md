@@ -1,10 +1,13 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Trybers and Dragons
+
+Este projeto, desenvolvido como parte dos estudos do módulo de _Back-end_ da escola de tecnologia [Trybe](https://www.betrybe.com/), ajuda a expandir e sedimentar conhecimentos sobre os pilares da **Programação Orientada a Objetos** e os princípios **SOLID**. 
+
+
+
+### O que foi avaliado?
+
+-   **Pilares da Programação Orientada a Objetos:** Conhecimento e aplicação de Herança, Abstração, Encapsulamento e Polimorfismo.
+-   **Interfaces:** Habilidade de criar e utilizar interfaces.
+-   **Composição:** Habilidade de utilizar composição.
+-   **TypeScript:** Implementação de classes, instâncias, atributos, métodos e objetos.
+-   **Princípios SOLID:** Conhecimento e aplicação dos princípios SOLID.
